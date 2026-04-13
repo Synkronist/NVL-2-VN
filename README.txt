@@ -5,6 +5,8 @@ A full visual novel style interface is provided.
 
 The text file that MUST be filled for the project to work is "NVL-2-VN.txt inside of the "game" directory.
 
+This project was designed for a 16:9 1080p display. I do not know the experience on other display configurations.
+
 Current features include:
 - Word and page count.
  
