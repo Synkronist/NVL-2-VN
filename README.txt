@@ -1,3 +1,5 @@
+MADE FOR REN'PY 8.5.2
+
 Vibe coded.
 
 In short, this project allows you to take a book and copy paste its text contents into the project for personal use.
