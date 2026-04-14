@@ -6,7 +6,7 @@ INSTRUCTIONS FOR DOING THIS YOURSELF:
 - Take script.rpy from this repo and replace the script.py in your new project.
 - Create a .txt file named NVL-2-VN.txt in the "game" directory of your new project.
 - Paste the TEXT contents of whatever book you are importing. Formatting issues are on you, not me.
--Place background images in the images directory of your project, name them "bg1.png" up to "bg31.png".
+- Place background images in the images directory of your project, name them "bg1.png" up to "bg31.png".
 - Place mp3 soundtracks in the audio directory of your project, name them "ost1.mp3" up to "ost20.mp3".
 - Play the game inside of Ren'Py.
 
