@@ -25,7 +25,7 @@ This project was designed for a 16:9 1080p display. I do not know the experience
 Current features include:
 - Word and page count.
  
-- Import song/sound tracks and have them automatically play in an ordered fashion, with the ability to change the active track at will.
+- Import song/sound tracks with the ability to change the active track at will.
 The audio files are placeholder but can be replaced for personal use, simply retain the naming convention of ost1, ost2, and so on...
 The same applies to backgrounds which are designed to change every 10 pages and have a naming convention of bg1 to bg31.
 
